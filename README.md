@@ -30,3 +30,7 @@ The `#articles` section contains four original scrapbook clippings: March 10, 19
 ## Recruiting scans and milestones (October 2026 update)
 
 All 19 original recruiting letters have been matched by letterhead, sender, and date to the catalog and are now clickable in the recruiting section. New image files are `assets/recruiting-letter-*.jpg`. The new Records & Milestones section highlights 1,000+ passing yards, 40 points against Cascade, five league-leading saves, senior basketball scoring, and documented PLU pitching highlights. These are not asserted to be school all-time records. Original source images were resized for website delivery while preserving readable detail.
+
+## Recruiting-letter thumbnails
+
+The recruiting letters are now displayed as compact previews. Click a preview to open the existing full-size lightbox, or select “Open full-size letter” to view the original image in a new tab. No original scans were resized or removed.

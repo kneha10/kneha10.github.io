@@ -9,3 +9,18 @@
 
 /* Matched primary-source scans and historical milestones */
 .letter-item{padding:0;overflow:hidden}.letter-item>span,.letter-item>div:not(.letter-scan),.letter-item>p{margin-left:20px;margin-right:20px}.letter-scan{margin:0 0 15px;background:#e8eef5}.letter-scan button{display:block;width:100%;padding:0;border:0;background:transparent;cursor:zoom-in}.letter-scan img{width:100%;height:245px;display:block;object-fit:contain;object-position:center;background:#edf1f5}.letter-item .letter-open{display:inline-block;margin:12px 20px 20px;color:var(--blue);font-weight:800;font-size:13px}.milestone-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}.milestone{background:white;padding:25px;border-top:4px solid var(--blue)}.milestone-year{font-size:11px;letter-spacing:.12em;font-weight:800;color:#3c6f9e}.milestone strong{font:700 57px/1.2 Oswald,sans-serif;color:var(--blue);display:block;margin:10px 0}.milestone h3{font-size:24px;color:var(--deep)}.milestone p{font-size:14px;color:#526479}.milestone a{font-size:13px;font-weight:800;color:var(--blue)}@media(max-width:900px){.milestone-grid{grid-template-columns:repeat(2,1fr)}}@media(max-width:600px){.milestone-grid{grid-template-columns:1fr}.letter-scan img{height:285px}}
+
+/* Compact recruiting archive: small previews; click to read the full scan. */
+.letter-list{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;align-items:stretch}
+.letter-item{display:grid;grid-template-columns:104px minmax(0,1fr);grid-template-rows:auto auto 1fr auto;column-gap:16px;align-content:start;padding:16px;min-width:0;border-radius:10px;background:#fff}
+.letter-scan{grid-column:1;grid-row:1 / span 4;margin:0;background:#f1f4f8;border:1px solid #dfe6ee;border-radius:5px;align-self:start;overflow:hidden}
+.letter-scan button{width:100%;display:block;cursor:zoom-in}
+.letter-scan img{width:100%;height:136px;object-fit:contain;background:#f1f4f8;display:block}
+.letter-item>span.letter-date{grid-column:2;grid-row:1;margin:0}
+.letter-item>div{grid-column:2;grid-row:2 / span 2;margin:0;min-width:0}
+.letter-item h4{font-size:19px;line-height:1.2;margin:5px 0}
+.letter-item p{font-size:13px;line-height:1.5;margin:6px 0 0}
+.letter-item .letter-open{grid-column:2;grid-row:4;margin:10px 0 0;font-size:12px}
+.letter-scan button:focus-visible{outline:3px solid #287cc0;outline-offset:-3px}
+@media(max-width:900px){.letter-list{grid-template-columns:1fr}}
+@media(max-width:420px){.letter-item{grid-template-columns:80px minmax(0,1fr);gap:10px;padding:12px}.letter-scan img{height:110px}.letter-item h4{font-size:17px}}
