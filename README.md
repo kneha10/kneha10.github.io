@@ -15,3 +15,7 @@ Edit `index.html` for page text, `styles.css` for visual design, and `script.js`
 ## October 2026 update
 
 Added the Recruiting / Road Not Taken section and searchable archive entries documenting original 1991–92 recruiting letters and Matt’s firsthand recollections about the Cleveland Indians scout, Central Washington football, his PLU decision, and shoulder injury. Draft selection, scout identity, and exact draft-round timing are not independently verified.
+
+## Featured newspaper articles (October 2026 update)
+
+The `#articles` section contains four original scrapbook clippings: March 10, 1992 Prep Athletes of the Week; Look, Ma, 1,000 yards!; March 29, 1992 college-options profile; and the 1992 PLU decision announcement. Images are in `assets/`, open full-size, and have corresponding searchable archive records. The PLU announcement's exact publication date has not been verified.
