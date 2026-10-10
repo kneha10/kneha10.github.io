@@ -34,3 +34,7 @@ All 19 original recruiting letters have been matched by letterhead, sender, and 
 ## Recruiting-letter thumbnails
 
 The recruiting letters are now displayed as compact previews. Click a preview to open the existing full-size lightbox, or select “Open full-size letter” to view the original image in a new tab. No original scans were resized or removed.
+
+## Chronological clipping gallery
+
+The Articles section now uses compact clickable thumbnails grouped by junior year, senior year and college, plus text-only game/box-score highlights where original scans are not yet individually matched. Click any image to enlarge.
