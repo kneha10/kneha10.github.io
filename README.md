@@ -26,3 +26,7 @@ The `#articles` section contains four original scrapbook clippings: March 10, 19
 - Added a **Recruiting Letters** navigation link and a chronological index of 19 original 1991–92 letters from Boise State, Eastern Washington, University of Puget Sound, Willamette, Whitworth, and Yakima Valley Community College. Descriptions are source-based; letters are not scholarship offers.
 - Added the direct November 7, 1991 Seattle Times archive link for **“Look, Ma, 1,000 yards!”** in the featured article and searchable archive. The source URL was provided by Matt; automated retrieval of the archive page was unsuccessful.
 - Original scans of recruiting letters are not included in this update because their corresponding individual image files have not been confidently matched to the catalog.
+
+## Recruiting scans and milestones (October 2026 update)
+
+All 19 original recruiting letters have been matched by letterhead, sender, and date to the catalog and are now clickable in the recruiting section. New image files are `assets/recruiting-letter-*.jpg`. The new Records & Milestones section highlights 1,000+ passing yards, 40 points against Cascade, five league-leading saves, senior basketball scoring, and documented PLU pitching highlights. These are not asserted to be school all-time records. Original source images were resized for website delivery while preserving readable detail.

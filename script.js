@@ -1,4 +1,9 @@
 const records=[
+{year:'1991',sport:'football',title:'1,000 passing yards milestone',text:'November 7, 1991 Seattle Times feature; 1,282 passing yards and nine touchdown passes by the end of senior season.',url:'https://archive.seattletimes.com/archive/19911107/1315900/look-ma-1000-yards----mothers-advice-worth-a-grand-to-interlake-qb'},
+{year:'1992',sport:'baseball',title:'Five saves — league leader',text:'Senior Interlake season: five saves, led league; second-team All-Crest pitcher, AAA state tournament team.'},
+{year:'1994',sport:'baseball',title:'PLU 1.20 ERA and district tournament relief',text:'3–0, 1.20 ERA in 15 innings; 2⅔ hitless relief innings in district win over Lewis & Clark State, according to PLU release.'},
+{year:'1995',sport:'baseball',title:'Three consecutive one-run complete games',text:'PLU April 1995 release: three straight conference complete games, one run allowed each; NCIC Pitcher of the Week.'},
+
 {year:'1992',sport:'basketball',title:'Prep Athletes of the Week — March 10, 1992',text:'Original Journal American newspaper clipping naming Matt McPoland and Ursula Strassmueller Prep Athletes of the Week; 40 points against Cascade.',image:'assets/athlete-of-week-1992.jpg'},
 {year:'1991',sport:'football',title:'Look, Ma, 1,000 yards!',text:'Original newspaper feature on Interlake quarterback Matt McPoland reaching 1,000 passing yards in 1991; finished with 1,282 yards.',image:'assets/look-ma-1000-yards.jpg',url:'https://archive.seattletimes.com/archive/19911107/1315900/look-ma-1000-yards----mothers-advice-worth-a-grand-to-interlake-qb'},
 {year:'1992',sport:'football',title:'Interlake’s McPoland considers his options',text:'March 29, 1992 article about college recruitment, choosing between football, basketball and baseball, and interest from Central Washington and Puget Sound.',image:'assets/college-options-1992.jpg'},
