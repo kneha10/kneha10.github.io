@@ -19,3 +19,10 @@ Added the Recruiting / Road Not Taken section and searchable archive entries doc
 ## Featured newspaper articles (October 2026 update)
 
 The `#articles` section contains four original scrapbook clippings: March 10, 1992 Prep Athletes of the Week; Look, Ma, 1,000 yards!; March 29, 1992 college-options profile; and the 1992 PLU decision announcement. Images are in `assets/`, open full-size, and have corresponding searchable archive records. The PLU announcement's exact publication date has not been verified.
+
+
+## October 2026 update: recruiting letters and Seattle Times
+
+- Added a **Recruiting Letters** navigation link and a chronological index of 19 original 1991–92 letters from Boise State, Eastern Washington, University of Puget Sound, Willamette, Whitworth, and Yakima Valley Community College. Descriptions are source-based; letters are not scholarship offers.
+- Added the direct November 7, 1991 Seattle Times archive link for **“Look, Ma, 1,000 yards!”** in the featured article and searchable archive. The source URL was provided by Matt; automated retrieval of the archive page was unsuccessful.
+- Original scans of recruiting letters are not included in this update because their corresponding individual image files have not been confidently matched to the catalog.
